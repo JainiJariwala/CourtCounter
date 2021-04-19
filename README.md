@@ -1,2 +1,2 @@
 # CourtCounter
-This application is just the use of basic layout structure of android. This app just count the score or goal of basketball or handball of two teams with some specific numbers of addition.
+This application is just the use of basic layout structure of android. In this application focus of learning is on the use of xml layouts and actionlistener in android.
